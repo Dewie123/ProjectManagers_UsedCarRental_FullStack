@@ -18,6 +18,7 @@ Execute boundary.py to run the server.
 
 Boundary.py -> Boundary
 App.py -> Controller
+
 listing.py,review.py,shortlist.py,user_account.py,user_profile.py -> Entity
 
 test_auth.py is for testing.
